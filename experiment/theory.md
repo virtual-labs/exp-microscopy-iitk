@@ -34,7 +34,7 @@ It can be applied to stained and unstained samples, allowing for a wide range of
 Unstained specimens frequently don't have enough contrast, which makes it challenging to see minute details.<br><br>
 <b>	2. Sample preparation:</b><br> 
 Staining or other contrast-enhancing methods may be necessary for specimens, which can change the sample.<br><br> 
-<br> 3. Limitations with Thick Specimens:</b><br> Brightfield microscopy is not recommended for thick or opaque specimens because these materials might scatter light and cause image quality to suffer.<br><br>
+<b> 3. Limitations with Thick Specimens:</b><br> Brightfield microscopy is not recommended for thick or opaque specimens because these materials might scatter light and cause image quality to suffer.<br><br>
 <b>	4. No 3-D information:</b><br> The lack of 3D information makes it difficult to see the three-dimensional structure of samples because it only gives a 2D image. <br><br>
 <b>Darkfield Microscopy: </b><br>
 Transparent or low-contrast specimens can be seen and contrasted more clearly using the optical microscopy technique known as darkfield microscopy. Darkfield microscopy illuminates the sample with oblique or scattered light, producing a bright image against a dark background, as opposed to brightfield microscopy, which illuminates the specimen with a bright background. In addition to minuscule particles, germs, and other transparent objects, this method is particularly helpful for studying live and unstained biological specimens.<br><br>
@@ -45,7 +45,7 @@ The basic idea behind darkfield microscopy is to use a condenser specifically cr
 <b>2. Objective Lens:</b><br> Darkfield microscopy uses objective lenses to magnify the scattered light and provide a magnified image of the specimen, just like other microscopy methods do.<br><br>
 <b>3. Stage for the Specimen:</b><br> 
 For exact positioning, the specimen is placed on a stage like that used in brightfield microscopy.<br><br> 
-<b>Light Source:</b><br> 
+<b>4. Light Source:</b><br> 
 The illumination is provided by a strong light source, typically a halogen lamp or LED. This light is shone first on the condenser and subsequently on the sample. <br><br>
 <b>Advantage:</b><br>
 <b>1. High Contrast:</b><br> 
@@ -57,8 +57,8 @@ Against the black background, minute features, such as germs, dust particles, an
 <b>4. No staining required:</b><br> 
 Darkfield microscopy does not require staining, in contrast to brightfield microscopy, protecting the specimen's original properties.<br><br>
 <b>Limitations:</b><br>
-<b>Limited Depth of Field:</b><br> Darkfield microscopy frequently has a limited depth of field, making it challenging to see three-dimensional structures in thick specimens.<br><br>
-<b>Specialized equipment:</b><br> 
+<b>1. Limited Depth of Field:</b><br> Darkfield microscopy frequently has a limited depth of field, making it challenging to see three-dimensional structures in thick specimens.<br><br>
+<b>2. Specialized equipment:</b><br> 
 Darkfield microscopy is slightly more sophisticated than brightfield because it requires specialized condensers and objectives.<br><br> 
 <b>Applications:</b><br>
 <b>1. Microbiology:</b><br> To observe live bacteria, spirochetes, and other microorganisms for research and diagnosis, darkfield microscopy is frequently employed in this field.<br><br>
@@ -85,8 +85,8 @@ Phase contrast microscopy is the best technique to observe live cells, cell orga
 Phase contrast microscopy does not require additional sample preparation, in contrast to staining methods, which can change the material's properties.<br><br>
 <b>4. High Resolution:</b><br> Phase contrast microscopy produces high-resolution images that allow observing minute cellular details.<br><br>
 <b>Limitations:</b><br>
-1. Phase contrast microscopy is more expensive and sophisticated than brightfield microscopy because it requires specialized optics and phase plates.<br>
-2. Artifacts and Halos: The process can create halo-like artifacts around the specimen's high-contrast edges or structures.<br><br>
+<b>1.</b> Phase contrast microscopy is more expensive and sophisticated than brightfield microscopy because it requires specialized optics and phase plates.<br>
+<b>2.</b> Artifacts and Halos: The process can create halo-like artifacts around the specimen's high-contrast edges or structures.<br><br>
 <b>Applications:</b><br>
 <b>1. Cell Biology:</b><br> 
 Phase contrast microscopy is frequently employed in cell biology to observe dynamic processes, subcellular structures, and living cells.<br><br>
@@ -96,7 +96,7 @@ It is essential for researching microorganisms in their natural environments, su
 Phase contrast microscopy is used to track embryonic development and cell differentiation in developmental biology.<br><br>
 <b>4. Materials Science:</b><br> 
 Materials science examines transparent materials, including microfluidic devices and polymers.<br><br>
-<b>5. Differential Interference Contrast (DIC) microscopy:</b><br>  
+<b> Differential Interference Contrast (DIC) microscopy:</b><br>  
 A sophisticated method that improves contrast and displays subtle differences in a sample's optical path length is contrast microscopy or DIC. It splits a light beam into two to induce a phase shift and sends one through the sample and the other through an optical route. Images produced show how the sample's thickness and relief vary.<br><br>
 <b>Principle:</b><br> 
 The basis of DIC microscopy is that polarised light and the specimen interact to produce interference patterns. This method divides a white light beam into two beams that vibrate perpendicular to one another using a polarising beam splitter, prisms, and specialized objectives. After traversing the specimen, these two beams are recombined to produce an interference pattern translated into an image. Differences in optical path length and refractive index, which show tiny specimen details, give rise to the final image.<br><br>
