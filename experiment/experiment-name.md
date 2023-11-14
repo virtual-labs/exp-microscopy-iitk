@@ -1,1 +1,1 @@
-## Microscopy: Modes, Magnification, and Imaging with Special Contrast Techniques like DIC, Polarized Light etc
+## Microscopy: Modes, Magnification, and Imaging with Special Contrast Techniques Like DIC, Polarized Light etc
