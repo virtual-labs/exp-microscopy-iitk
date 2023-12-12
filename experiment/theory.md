@@ -1,6 +1,6 @@
 The ability to observe samples at the micro- and nanoscale using microscopy makes it a crucial tool in many scientific disciplines. This theory explores the fundamentals and uses of microscopy with an emphasis on imaging methods like Polarised Light Microscopy and Differential Interference Contrast (DIC) Microscopy.<br><br>
 <b> Microscopy Techniques:</b><br>
-<b><font size="2">1 Brightfield Microscopy</font></b><br>
+<b><font size="2">1</font> Brightfield Microscopy</b><br>
 The most popular and fundamental type of optical microscopy is brightfield microscopy. This mode allows for the visualisation of sample structures by illuminating the sample with white light and producing a picture that depicts variations in light absorption and scattering. Figure 1 shows the image of a Bright Field Microscope. <br><br>
 <image src ="images/Picture1.png"><br>
 <b>Figure 1.</b> Bright/Dark Field Microscope <br><br>
