@@ -109,9 +109,10 @@ Materials science examines transparent materials, including microfluidic devices
 
 <b>4 Differential Interference Contrast (DIC) microscopy:</b><br>  
 A sophisticated method that improves contrast and displays subtle differences in a sample's optical path length is contrast microscopy or DIC. It splits a light beam into two to induce a phase shift and sends one through the sample and the other through an optical route. Images produced show how the sample's thickness and relief vary.<br><br>
-<b>4.1 Principle</b><br> 
+<b>4.1 Principle</b><br><br> 
 The basis of DIC microscopy is that polarised light and the specimen interact to produce interference patterns. This method divides a white light beam into two beams that vibrate perpendicular to one another using a polarising beam splitter, prisms, and specialized objectives. After traversing the specimen, these two beams are recombined to produce an interference pattern translated into an image. Differences in optical path length and refractive index, which show tiny specimen details, give rise to the final image.<br><br>
-<b>4.2 Components</b><br> DIC Microscope involves a set of specialized optical components:<br>
+<b>4.2 Components</b><br><br>
+DIC Microscope involves a set of specialized optical components:<br>
 * <b>Polarizer </b><br>
 The polarizer produces A linearly polarised beam, which polarises the light source into a single plane of vibration.<br><br>
 * <b>Beam Splitter:</b><br> 
@@ -122,12 +123,12 @@ The two beams are recombined using Nomarski prisms, also called Wollaston prisms
 * <b>Objective Lens</b><br> 
 The objective lens is a key component that collects the recombined beams and creates an interference pattern that the eyepiece then images.<br><br>
 
-<b>5 Magnification</b><br> 
+<b>5 Magnification</b><br><br> 
 The interaction of the objective and eyepiece lenses in a microscope produces varying magnification. Multiplying the objective magnification by the eyepiece magnification yields the total magnification. Higher magnifications make finer details more visible but can also reduce the depth of focus and field of view.<br><br>
-<b>5.1 Principle</b><br> 
+<b>5.1 Principle</b><br><br> 
 The interaction of light with lenses or other optical elements is the foundation of the microscope magnification principle. The ability to magnify and project a specimen onto an image plane—typically a camera or the eyepiece for visual observation—requires that light rays from the specimen be refracted (bent) as they pass through a succession of lenses.<br><br>
 <b>5.2 Components of Magnification</b><br>
-* <b>Objective lens</b><br> 
+* <b>Objective lens</b><br><br> 
 The primary lens in a microscope is called the objective lens. It is responsible for gathering and magnifying the light that enters the specimen. The numerical aperture (NA), which affects the lens's resolving capacity, and the magnification power are typically used to pick the objective lens.<br><br>
 * <b>Eyepiece Lens</b><br> 
 The eyepiece lens, often called the ocular, is a magnifying lens attached to the top of the microscope and is used to enlarge the image created by the objective lens. The sum of the magnifications of the objective and eyepiece lenses determines the overall magnification.<br><br>
@@ -156,7 +157,7 @@ A shallow depth of field, which is frequently produced by high magnification, co
 - <b>Optical aberrations:</b><br> 
 These are flaws in the lens that distort the image, can result from high magnification. High-magnification microscopy presents a substantial difficulty in the correction of aberrations.<br><br>
 
-<b>5.6 Applications</b><br>
+<b>5.6 Applications</b><br><br>
 Numerous scientific disciplines, including biology, material science, geology, and more, can use these microscopy techniques. While polarised light microscopy helps analyze crystal structures, mineralogy, and structural flaws in materials, DIC microscopy is particularly useful in biological research for examining living cells and tissues. 
 
 
