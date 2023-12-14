@@ -8,7 +8,7 @@ The most popular and fundamental type of optical microscopy is brightfield micro
 Transmitted light is the underlying principle of brightfield microscopy. This technique involves passing visible white light through the specimen, which, to variable degrees, scatters or absorbs the light. The contrast and visibility of structures inside the specimen depend on how much light is absorbed or dispersed by the sample. Due to the normally low contrast of unstained specimens, staining procedures are required to improve the visibility of characteristics.<br><br>
 <b>1.2 Components</b><br>
 Brightfield microscopes are made up of several essential parts, including:<br><br>
- * <b>Illuminator</b><br> 
+* <b>Illuminator</b><br> 
 The light source that produces white light for the specimen, usually a halogen lamp or an LED.<br><br>
 * <b>Condenser Lens</b><br>
 To ensure even illumination, the condenser lens concentrates and directs the light onto the specimen.<br> <br>
