@@ -8,19 +8,19 @@ The most popular and fundamental type of optical microscopy is brightfield micro
 Transmitted light is the underlying principle of brightfield microscopy. This technique involves passing visible white light through the specimen, which, to variable degrees, scatters or absorbs the light. The contrast and visibility of structures inside the specimen depend on how much light is absorbed or dispersed by the sample. Due to the normally low contrast of unstained specimens, staining procedures are required to improve the visibility of characteristics.<br><br>
 <b>1.2 Components</b><br>
 Brightfield microscopes are made up of several essential parts, including:<br><br>
-* <b>Illuminator</b><br> 
+ * <b>Illuminator</b><br> 
 The light source that produces white light for the specimen, usually a halogen lamp or an LED.<br><br>
- * <b>Condenser Lens</b><br>
+* <b>Condenser Lens</b><br>
 To ensure even illumination, the condenser lens concentrates and directs the light onto the specimen.<br> <br>
- * <b>Stage for Specimen</b> <br>
+* <b>Stage for Specimen</b> <br>
 The stage, which allows for accurate positioning by allowing for vertical and horizontal movement, is used to hold the specimen.<br><br>
- * <b>Objective Lens</b><br>
+* <b>Objective Lens</b><br>
 The objective lens is the primary lens that gathers and magnifies the light flowing through the specimen. It oversees creating the initial image.<br><br>
- * <b>Eyepiece</b><br> 
+* <b>Eyepiece</b><br> 
 The eyepiece lens enlarges the image created by the objective lens so that the viewer may examine and evaluate the specimen.<br><br>
- * <b>Eyepiece tube and body tube</b><br> 
+* <b>Eyepiece tube and body tube</b><br> 
 The eyepiece lens is held in place by the eyepiece tube and body tube, which also serve as the image's optical route.<br><br>
- * <b>Focus Mechanism</b><br> 
+* <b>Focus Mechanism</b><br> 
 Brightfield microscopes contain a fine and coarse focus mechanism to bring the specimen into clear focus. <br><br>
 
 <b>1.3 Advantages</b><br>
@@ -28,8 +28,8 @@ Brightfield microscopes contain a fine and coarse focus mechanism to bring the s
 Brightfield microscopy is simple to set up and use, making it appropriate for educational applications and everyday laboratory work.<br><br>
 * <b>Versatility</b><br> 
 It can be applied to stained and unstained samples, allowing for a wide range of sample types.<br> <br>
- * <b>Live cell observation:</b><br> Brightfield microscopy is a crucial tool in biology and microbiology because it allows observation of living cells and tissues.<br> <br>
- * <b>High Resolution imaging:</b><br> Modern brightfield microscopes, particularly those with oil-immersion objectives, can capture great-resolution images. <br><br>
+* <b>Live cell observation:</b><br> Brightfield microscopy is a crucial tool in biology and microbiology because it allows observation of living cells and tissues.<br> <br>
+* <b>High Resolution imaging:</b><br> Modern brightfield microscopes, particularly those with oil-immersion objectives, can capture great-resolution images. <br><br>
  
 <b> 1.4 Limitations</b><br>
  * <b>Low Contrast</b><br>
