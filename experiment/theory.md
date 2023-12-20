@@ -97,7 +97,7 @@ Phase contrast microscopy does not require additional sample preparation, in con
  * Phase contrast microscopy is more expensive and sophisticated than brightfield microscopy because it requires specialized optics and phase plates.<br>
 * Artifacts and Halos: The process can create halo-like artifacts around the specimen's high-contrast edges or structures.<br><br>
 
-<b>3.5  Applications</b><br>
+<b>1.3.5  Applications</b><br>
 * <b>Cell Biology</b><br> 
 Phase contrast microscopy is frequently employed in cell biology to observe dynamic processes, subcellular structures, and living cells.<br><br>
 * <b>Microbiology</b><br> 
