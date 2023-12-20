@@ -1,4 +1,4 @@
- <b>1. Bright field microscopy  </b> <br>
+ <b>1. Bright field microscopy  </b> <br><br>
  <b>1.1	Microscope setup </b><br> Make sure the microscope is well-maintained and functional.  After turning on the light source (transmitted light), set the intensity to the right amount. <br><br>
 	 <b>1.2	Specimen preparation </b><br> Prepare a thin section of the specimen, which is usually covered with a coverslip and mounted on a glass slide. If necessary, stain the specimen to improve contrast.<br><br>
  <b>1.3	Objective selection </b><br> Select a brightfield objective lens based on the needs of your sample. Magnification (e.g., 10x, 40x) and numerical aperture (NA) are labels applied to objective lenses.<br><br>
