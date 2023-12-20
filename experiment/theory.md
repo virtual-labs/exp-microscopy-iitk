@@ -1,10 +1,10 @@
 The ability to observe samples at the micro- and nanoscale using microscopy makes it a crucial tool in many scientific disciplines. This theory explores the fundamentals and uses of microscopy with an emphasis on imaging methods like Polarised Light Microscopy and Differential Interference Contrast (DIC) Microscopy.<br><br>
-<b><font style="10">1.  Microscopy Techniques</font></b><br>
-<b>1.1 Brightfield Microscopy</b><br>
+<b><font style="10">1.  Microscopy Techniques</font></b><br><br>
+<b>1.1 Brightfield Microscopy</b><br><br>
 The most popular and fundamental type of optical microscopy is brightfield microscopy. This mode allows for the visualisation of sample structures by illuminating the sample with white light and producing a picture that depicts variations in light absorption and scattering. Figure 1 shows the image of a Bright Field Microscope. <br><br>
 <center><image src ="images/Picture1.png"> </image></center><br>
 <b><center>Figure 1.</b> Bright/Dark Field Microscope </center><br><br>
-<b>1.1.1 Principle</b><br> 
+<b>1.1.1 Principle</b><br><br> 
 Transmitted light is the underlying principle of brightfield microscopy. This technique involves passing visible white light through the specimen, which, to variable degrees, scatters or absorbs the light. The contrast and visibility of structures inside the specimen depend on how much light is absorbed or dispersed by the sample. Due to the normally low contrast of unstained specimens, staining procedures are required to improve the visibility of characteristics.<br><br>
  
 <b>1.1.2 Components</b>: Brightfield microscopes are made up of several essential parts, including<br>
@@ -39,9 +39,9 @@ Staining or other contrast-enhancing methods may be necessary for specimens, whi
  * <b>Limitations with Thick Specimens</b><br> Brightfield microscopy is not recommended for thick or opaque specimens because these materials might scatter light and cause image quality to suffer.<br><br>
 * <b>No 3-D information</b><br> The lack of 3D information makes it difficult to see the three-dimensional structure of samples because it only gives a 2D image. <br><br>
 
-<b>1.2 Darkfield Microscopy</b><br>
+<b>1.2 Darkfield Microscopy</b><br><br>
 Transparent or low-contrast specimens can be seen and contrasted more clearly using the optical microscopy technique known as darkfield microscopy. Darkfield microscopy illuminates the sample with oblique or scattered light, producing a bright image against a dark background, as opposed to brightfield microscopy, which illuminates the specimen with a bright background. In addition to minuscule particles, germs, and other transparent objects, this method is particularly helpful for studying live and unstained biological specimens.<br><br>
-<b>	1.2.1 Principle </b><br>
+<b>	1.2.1 Principle </b><br><br>
 The basic idea behind darkfield microscopy is to use a condenser specifically created to block the main, unscattered light beam. On the other hand, only light that is refracted or dispersed by the specimen enters the objective lens. The result is a brilliant image on a dark background thanks to the capturing of this scattered light. Transparent or translucent specimens are easier to see against a dark background, which improves contrast and resolution.<br><br>
 <b> 1.2.2  Components</b><br>
  * <b>Condenser with Darkfield Stop:</b><br> The condenser features a darkfield stop, a spherical disc close to the condenser lens that filters out the light from the center. Only the dispersed or refracted light can pass through due to its construction.<br><br>
@@ -72,9 +72,9 @@ Darkfield microscopy is slightly more sophisticated than brightfield because it 
 * <b>Pharmaceuticals:</b><br> Drug particles, microcrystals, and other pharmaceutical components can be analyzed using darkfield microscopy.<br><br>
 * <b>Materials Science:</b><br> Examining minute particles, flaws, and impurities in materials is done in material science.<br><br>
 
-<b>1.3  Phase contrast microscopy</b><br> 
+<b>1.3  Phase contrast microscopy</b><br><br> 
 This technique is good for looking at transparent specimens like living cells. It produces high contrast images of phase objects by taking advantage of variations in the phase of light travelling through the sample.<br><br>
-<b>1.3.1  Principle</b><br> 
+<b>1.3.1  Principle</b><br><br> 
 The foundation of phase contrast microscopy is that light undergoes a phase shift when it passes through a transparent or semi-transparent specimen. However, using a conventional brightfield microscope, this phase change is invisible to the naked eye. In phase contrast microscopy, these phase discrepancies are converted into intensity differences using various optical components, creating a contrasted image.<br><br> 
 <b>1.3.2 Components</b><br>
 * <b>Phase Plate</b><br> 
