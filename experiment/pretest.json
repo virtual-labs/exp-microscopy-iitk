@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Optical microscope can be used to observe samples in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Micro scale",
+        "b": "Nano scale",
+        "c": "Pico scale",
+        "d": "Femto scale"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Principle of Bright field microscopy",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Reflected light",
+        "b": "Transmitted light",
+        "c": "Both",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is needed to observe tiny details of a sample under an optical microscope",
+      "answers": {
+        "a": "Magnification",
+        "b": "Resolution",
+        "c": "Both",
+        "d": "None"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
