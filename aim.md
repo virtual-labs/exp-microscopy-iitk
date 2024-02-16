@@ -1,0 +1,1 @@
+To study about different modes, magnification, and imaging with special contrast techniques like DIC, polarized light for microscope 

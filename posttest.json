@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Wollaston Prism are also known as",
+      "answers": {
+        "a": "Nomarski Prism",
+        "b": "Hollow Prism",
+        "c": "Absorbing Prism",
+        "d": "Scattering Prism"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In which microscopy, unscattered light is blocked",
+      "answers": {
+        "a": "Bright field microscopy",
+        "b": "Light field microscopy",
+        "c": "Dark field microscopy",
+        "d": "None "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which microscopy uses material's birefringence to increase contrast and expose structural and textural details",
+      "answers": {
+        "a": "Dark field microscopy",
+        "b": "Bright field microscopy",
+        "c": "Polarised light microscopy",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
