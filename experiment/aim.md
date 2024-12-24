@@ -1,1 +1,1 @@
-The aim of this experiment is to study the different imaging modes, magnification levels, and special contrast techniques, including Differential Interference Contrast (DIC) microscopy and Polarized Light Microscopy.
+The aim of this experiment is to study the different imaging modes, magnification levels, and special contrast techniques, including Differential Interference Contrast (DIC) microscopy and Polarized light microscopy.
