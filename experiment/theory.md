@@ -1,7 +1,7 @@
-<b>1. Introduction</b><br><br>
+<b>1 Introduction</b><br><br>
 The ability to observe samples at the micro- and nanoscale using microscopy makes it a crucial tool in many scientific disciplines. This theory explores the fundamentals and uses of microscopy with an emphasis on imaging methods like Polarised Light Microscopy and Differential Interference Contrast (DIC) Microscopy.<br><br>
 
-<b>2. Brightfield Microscopy</b><br><br>
+<b>2 Brightfield Microscopy</b><br><br>
 The most popular and fundamental type of optical microscopy is brightfield microscopy. This mode allows for the visualisation of sample structures by illuminating the sample with white light and producing a picture that depicts variations in light absorption and scattering. Figure 1 shows the image of a Bright Field Microscope. <br><br>
 <center><image src ="images/Picture1.png"> </image></center><br>
 <b><center>Figure 1.</b> Bright/Dark Field Microscope </center><br><br>
@@ -40,7 +40,7 @@ Staining or other contrast-enhancing methods may be necessary for specimens, whi
  * <b>Limitations with Thick Specimens</b><br> Brightfield microscopy is not recommended for thick or opaque specimens because these materials might scatter light and cause image quality to suffer.<br><br>
 * <b>No 3-D information</b><br> The lack of 3D information makes it difficult to see the three-dimensional structure of samples because it only gives a 2D image. <br><br>
 
-<b>3. Darkfield Microscopy</b><br><br>
+<b>3 Darkfield Microscopy</b><br><br>
 Transparent or low-contrast specimens can be seen and contrasted more clearly using the optical microscopy technique known as darkfield microscopy. Darkfield microscopy illuminates the sample with oblique or scattered light, producing a bright image against a dark background, as opposed to brightfield microscopy, which illuminates the specimen with a bright background. In addition to minuscule particles, germs, and other transparent objects, this method is particularly helpful for studying live and unstained biological specimens.<br><br>
 <b>	3.1 Principle </b><br><br>
 The basic idea behind darkfield microscopy is to use a condenser specifically created to block the main, unscattered light beam. On the other hand, only light that is refracted or dispersed by the specimen enters the objective lens. The result is a brilliant image on a dark background thanks to the capturing of this scattered light. Transparent or translucent specimens are easier to see against a dark background, which improves contrast and resolution.<br><br>
@@ -73,7 +73,7 @@ Darkfield microscopy is slightly more sophisticated than brightfield because it 
 * <b>Pharmaceuticals:</b><br> Drug particles, microcrystals, and other pharmaceutical components can be analyzed using darkfield microscopy.<br><br>
 * <b>Materials Science:</b><br> Examining minute particles, flaws, and impurities in materials is done in material science.<br><br>
 
-<b>4.  Phase Contrast Microscopy</b><br><br> 
+<b>4  Phase Contrast Microscopy</b><br><br> 
 This technique is good for looking at transparent specimens like living cells. It produces high contrast images of phase objects by taking advantage of variations in the phase of light travelling through the sample.<br><br>
 <b>4.1  Principle</b><br><br> 
 The foundation of phase contrast microscopy is that light undergoes a phase shift when it passes through a transparent or semi-transparent specimen. However, using a conventional brightfield microscope, this phase change is invisible to the naked eye. In phase contrast microscopy, these phase discrepancies are converted into intensity differences using various optical components, creating a contrasted image.<br><br> 
@@ -108,7 +108,7 @@ Phase contrast microscopy is used to track embryonic development and cell differ
 * <b>Materials Science</b><br> 
 Materials science examines transparent materials, including microfluidic devices and polymers.<br><br>
 
-<b>5. Differential Interference Contrast (DIC) Microscopy:</b><br>  
+<b>5 Differential Interference Contrast (DIC) Microscopy:</b><br>  
 A sophisticated method that improves contrast and displays subtle differences in a sample's optical path length is contrast microscopy or DIC. It splits a light beam into two to induce a phase shift and sends one through the sample and the other through an optical route. Images produced show how the sample's thickness and relief vary.<br><br>
 <b>5.1 Principle</b><br><br> 
 The basis of DIC microscopy is that polarised light and the specimen interact to produce interference patterns. This method divides a white light beam into two beams that vibrate perpendicular to one another using a polarising beam splitter, prisms, and specialized objectives. After traversing the specimen, these two beams are recombined to produce an interference pattern translated into an image. Differences in optical path length and refractive index, which show tiny specimen details, give rise to the final image.<br><br>
@@ -124,7 +124,7 @@ The two beams are recombined using Nomarski prisms, also called Wollaston prisms
 * <b>Objective Lens</b><br> 
 The objective lens is a key component that collects the recombined beams and creates an interference pattern that the eyepiece then images.<br><br>
 
-<b>6. Magnification</b><br><br> 
+<b>6 Magnification</b><br><br> 
 The interaction of the objective and eyepiece lenses in a microscope produces varying magnification. Multiplying the objective magnification by the eyepiece magnification yields the total magnification. Higher magnifications make finer details more visible but can also reduce the depth of focus and field of view.<br><br>
 <b>6.1 Principle</b><br><br> 
 The interaction of light with lenses or other optical elements is the foundation of the microscope magnification principle. The ability to magnify and project a specimen onto an image plane—typically a camera or the eyepiece for visual observation—requires that light rays from the specimen be refracted (bent) as they pass through a succession of lenses.<br><br>
@@ -148,7 +148,7 @@ Whether viewing biological specimens, nanomaterials, or other tiny things, magni
 * <b>Scientific growth</b><br> 
 Magnification is essential to the growth of science. It has been helpful in subfields like nanotechnology, materials science, and biology.<br><br>
 
-<b>6.5 Special Contrast Techniques</b><br>
+<b>7 Special Contrast Techniques</b><br>
 * <b>Polarised light microscopy:</b><br> Polarised light microscopy is a special contrast technique that uses a material's birefringence to increase contrast and expose structural and textural details. Polarised light alters the direction of polarisation as it travels through a birefringent material, resulting in distinctive patterns and colors that reveal the sample's structural organization.<br><br>
 * <b>Differential Interference Contrast (DIC) Microscopy:</b><br> 
 As previously indicated, DIC microscopy improves contrast by spotting changes in optical path length. It is particularly useful for highlighting details in clear or low-contrast samples, including unstained biological samples.<br><br>
@@ -158,7 +158,7 @@ A shallow depth of field, which is frequently produced by high magnification, co
 - <b>Optical aberrations:</b><br> 
 These are flaws in the lens that distort the image, can result from high magnification. High-magnification microscopy presents a substantial difficulty in the correction of aberrations.<br><br>
 
-<b>6.6 Applications</b><br><br>
+<b>7.1 Applications</b><br><br>
 Numerous scientific disciplines, including biology, material science, geology, and more, can use these microscopy techniques. While polarised light microscopy helps analyze crystal structures, mineralogy, and structural flaws in materials, DIC microscopy is particularly useful in biological research for examining living cells and tissues. 
 
 
