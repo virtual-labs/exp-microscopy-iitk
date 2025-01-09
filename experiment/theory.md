@@ -138,7 +138,7 @@ To guarantee appropriate image formation, the distance between the objective len
 
 <b>6.3 Types of Magnification</b><br>
 * <b>Optical Magnification</b><br> 
-When a specimen appears to grow when examined under a microscope, this is referred to as optical magnification. It is computed by multiplying the eyepiece lens' magnification with the objective lens'. For instance, a 10x objective and 10x eyepiece would result in a total optical magnification of 10x * 10x = 100x.<br><br>
+When a specimen appears to grow when examined under a microscope, this is referred to as optical magnification. It is computed by multiplying the eyepiece lens' magnification with the objective lens'. For instance, a 10x objective and 10x eyepiece would result in a total optical magnification of 10x X 10x = 100x.<br><br>
 * <b>Total Magnification</b><br> The level of enlargement the microscope achieves is called total magnification. Both optical magnification and any additional magnification offered by the camera or detector are considered. Most of the time, total magnification is more than optical magnification.<br><br>
 
 <b>6.4 Significance of Magnification</b><br>
