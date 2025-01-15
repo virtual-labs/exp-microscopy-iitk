@@ -1,0 +1,594 @@
+<!DOCTYPE html><html lang="en"><head>
+      <!--Google Tag Manager-->
+      <script class="gtm">
+        var dataLayer = [{
+        'labName': 'Virtual Lab',
+        'discipline': 'Test',
+        'college': 'IITK',
+        'phase': 'Testing',
+        'expName': 'MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES
+    LIKE DIC, POLARIZED LIGHT ETC',
+        'expShortName': 'microscopy'
+        }];
+    
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5NMQ9NQ');
+      </script>
+      <!--End Google Tag Manager-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="" name="description">
+    <meta content="" name="author">
+    
+    	<meta name="experiment-short-name" content="microscopy">
+    	<meta name="developer-institute" content="IITK">
+    	<meta name="learning-unit" content="MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES
+    LIKE DIC, POLARIZED LIGHT ETC">
+    	<meta name="task-name" content="Theory">
+    
+    <!-- For iPhone -->
+    <meta name="msapplication-TileColor" content="#4076e0">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#4076e0">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#4076e0">
+    <title>Virtual Labs</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.ico">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" integrity="sha512-Oy18vBnbSJkXTndr2n6lDMO5NN31UljR8e/ICzVPrGpSud4Gkckb8yUpqhKuUNoE+o9gAb4O/rAxxw1ojyUVzg==" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/github-markdown.min.css">
+    <link rel="stylesheet" href="./assets/css/vlabs-style.css">
+    <link rel="stylesheet" href="./assets/css/toast.css">
+    <link rel="stylesheet" href="./assets/katex_assets/katex.min.css">
+    
+    <script src="./assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <style>
+      h1 {
+      font-size: 1.8rem;
+      }
+      h2 {
+      font-size: 1.4rem;
+      }
+      h3 {
+      font-size: 1.2rem;
+      }
+
+      h2, h3 {
+      font-weight: 800;
+      }
+    </style>
+    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"></head>
+  <body class="p-0 container-fluid vlabs-page d-flex flex-column justify-content-between">
+      <!--Google Tag Manager (noscript)-->
+      <noscript class="gtm">
+        <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5NMQ9NQ" style="display:none;visibility:hidden" width="0">
+        </iframe>
+      </noscript>
+      <!--End Google Tag Manager (noscript)-->
+  
+      <header class="vlabs-header sticky-top bg-white">
+        <nav class="p-0 navbar navbar-light d-flex align-items-stretch">
+          
+          <button class="navbar-toggler px-4" type="button" onclick="toggle()">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      
+          <div class="d-flex justify-content-center">        
+            <a href="https://vlab.co.in" class="navbar-brand">
+              <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo" class="vlabs-logo">
+            </a>
+          </div>
+          
+          <div id="headerNavbar" class="d-none border-top flex-grow-1 d-lg-flex align-items-center justify-content-end">
+            <div class="svc-rating-display">
+                <rating-display spreadsheetid="1x12nhpp0QvnsA6x-O1sV4IA9SAbfVsq_wiexWkutOmU" sheetname="Experiment-Database" columnname="Experiment Short Name" columnvalue="microscopy" imagesdirectory="./plugins/svc-rating/images/">
+                </rating-display>
+            </div>      <div class="svc-rating-submit">
+                <rating-submit title="Rate" this="" experiment="">
+                </rating-submit>
+            </div>      <bug-report id="bug-report" title="[BUG REPORT] MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES
+      LIKE DIC, POLARIZED LIGHT ETC" page-type="text" context-info="{&quot;organisation&quot;:&quot;Virtual Labs&quot;,&quot;developer_institute&quot;:&quot;IITK&quot;,&quot;expname&quot;:&quot;MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES\nLIKE DIC, POLARIZED LIGHT ETC&quot;,&quot;labname&quot;:&quot;Virtual Lab&quot;,&quot;phase&quot;:&quot;Testing&quot;}" checkbox-json="{&quot;text&quot;:[&quot;Insufficient Content&quot;],&quot;video&quot;:[&quot;Insufficient Content&quot;],&quot;assesment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;assessment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;simulation&quot;:[&quot;Simulation Not Working&quot;,&quot;Incorrect Results/Observations&quot;,&quot;Insufficient/Incorrect Instructions&quot;],&quot;DEFAULT&quot;:[&quot;Page Not Loading&quot;,&quot;Content Not Visible&quot;,&quot;Incorrect Content&quot;]}" button_style="border: none; color: #fff; background-color: #288ec8; text-align: center; font-size: 1.05rem; border-radius: 1em;padding: 0.6em 1.2em; margin: 0 10px" position="override" custom_button_class="v-button"></bug-report>
+          </div>
+        </nav>
+      </header>
+      <div class="container-fluid flex-fill d-flex flex-column vlabs-page-main">
+        <div class="row d-flex justify-content-between">
+          <div class="flex-column">
+          <div class="row py-4 px-4 breadcrumbs">
+          	<div class="title is-4 tools">Tools</div>
+          	<span class="mx-2">
+          		<i aria-hidden="true" class="fa fa-angle-right"></i>
+          	</span>
+          	<a href="performance-report.html" class="my-2 mx-3" target="_blank">
+          		<button class="v-button">Performance Tool</button>
+          	</a>
+          	<a href="validator-report.html" class="my-2 mx-3" target="_blank">
+          		<button class="v-button">Validation Tool</button>
+          	</a>
+          </div>
+          </div>
+        </div>
+        <div class="row flex-grow-1 d-flex flex-nowrap flex-column flex-lg-row">
+          <div class="modal fade popupmenu" id="popupMenu" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">
+                              <a href="https://vlab.co.in" class="navbar-brand">
+                                  <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo" class="vlabs-logo">
+                              </a>
+                          </h5>
+                          <button type="button" class="btn-close align-self-center" data-bs-dismiss="modal" aria-label="Close"></button>
+                      </div>
+                      <div class="modal-body nav-menu">
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="index.html" class="p-2 ">
+                                      Aim
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="theory.html" class="p-2  current-item ">
+                                      Theory
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="pretest.html" class="p-2 ">
+                                      Pretest
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="procedure.html" class="p-2 ">
+                                      Procedure
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="simulation.html" class="p-2 ">
+                                      Simulation
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="posttest.html" class="p-2 ">
+                                      Posttest
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="references.html" class="p-2 ">
+                                      References
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                              <div>
+                                  <div class="d-flex nav-menu-body">
+                                      <a href="feedback.html" class="p-2 ">
+                                      Feedback
+                                      </a>
+                                      
+                                  </div>
+                                  <div id="t-" class="collapse">
+                                      <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                                      </div>
+                                  </div>
+                              </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="nav flex-column sidebar nav-menu flex-shrink-0 px-lg-4 align-items-center align-items-lg-start hidden d-none d-lg-flex" id="menu">
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="index.html" class="p-2 ">
+                        Aim
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="theory.html" class="p-2  current-item ">
+                        Theory
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="pretest.html" class="p-2 ">
+                        Pretest
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="procedure.html" class="p-2 ">
+                        Procedure
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="simulation.html" class="p-2 ">
+                        Simulation
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="posttest.html" class="p-2 ">
+                        Posttest
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="references.html" class="p-2 ">
+                        References
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="d-flex nav-menu-body">
+                        <a href="feedback.html" class="p-2 ">
+                        Feedback
+                        </a>
+                        
+                    </div>
+                    <div id="t-" class="collapse">
+                        <div class="px-3 d-flex flex-column tasks align-items-center align-items-lg-start">
+                        </div>
+                    </div>
+                </div>
+          </div>          <div class="vlabs-page-content px-5 pb-4 flex-grow-1 markdown-body">
+            <div class="text-center fix-spacing">
+              <h2 id="microscopy-modes-magnification-and-imaging-with-special-contrast-techniques-like-dic-polarized-light-etc">Microscopy: Modes, Magnification, and Imaging with Special Contrast Techniques Like DIC, Polarized Light etc</h2>
+          
+            </div>
+              <p><b>1 Introduction</b><br><br>
+          The ability to observe samples at the micro- and nanoscale using microscopy makes it a crucial tool in many scientific disciplines. This theory explores the fundamentals and uses of microscopy with an emphasis on imaging methods like Polarised Light Microscopy and Differential Interference Contrast (DIC) Microscopy.<br><br></p>
+          <p><b>2 Brightfield Microscopy</b><br><br>
+          The most popular and fundamental type of optical microscopy is brightfield microscopy. This mode allows for the visualisation of sample structures by illuminating the sample with white light and producing a picture that depicts variations in light absorption and scattering. Figure 1 shows the image of a Bright Field Microscope. <br><br></p>
+          <center><img src="images/Picture1.png"> </center><br>
+          <b></b><center><b>Figure 1.</b> Bright/Dark Field Microscope </center><br><br>
+          <b>2.1 Principle</b><br><br> 
+          Transmitted light is the underlying principle of brightfield microscopy. This technique involves passing visible white light through the specimen, which, to variable degrees, scatters or absorbs the light. The contrast and visibility of structures inside the specimen depend on how much light is absorbed or dispersed by the sample. Due to the normally low contrast of unstained specimens, staining procedures are required to improve the visibility of characteristics.<br><br>
+           
+          <p><b>2.2 Components</b>: Brightfield microscopes are made up of several essential parts, including<br></p>
+          <ul>
+          <li><b>Illuminator</b><br>
+          The light source that produces white light for the specimen, usually a halogen lamp or an LED.<br><br></li>
+          <li><b>Condenser Lens</b><br> 
+          To ensure even illumination, the condenser lens concentrates and directs the light onto the specimen.<br> <br></li>
+          <li><b>Stage for Specimen</b> <br>
+          The stage, which allows for accurate positioning by allowing for vertical and horizontal movement, is used to hold the specimen.<br><br></li>
+          <li><b>Objective Lens</b><br>
+          The objective lens is the primary lens that gathers and magnifies the light flowing through the specimen. It oversees creating the initial image.<br><br></li>
+          <li><b>Eyepiece</b><br> 
+          The eyepiece lens enlarges the image created by the objective lens so that the viewer may examine and evaluate the specimen.<br><br></li>
+          <li><b>Eyepiece tube and body tube</b><br> 
+          The eyepiece lens is held in place by the eyepiece tube and body tube, which also serve as the image's optical route.<br><br></li>
+          <li><b>Focus Mechanism</b><br> 
+          Brightfield microscopes contain a fine and coarse focus mechanism to bring the specimen into clear focus. <br><br></li>
+          </ul>
+          <p><b>2.3 Advantages</b><br></p>
+          <ul>
+          <li><b>Simplicity</b><br>
+          Brightfield microscopy is simple to set up and use, making it appropriate for educational applications and everyday laboratory work.<br><br></li>
+          <li><b>Versatility</b><br> 
+          It can be applied to stained and unstained samples, allowing for a wide range of sample types.<br> <br></li>
+          <li><b>Live cell observation:</b><br> Brightfield microscopy is a crucial tool in biology and microbiology because it allows observation of living cells and tissues.<br> <br></li>
+          <li><b>High Resolution imaging:</b><br> Modern brightfield microscopes, particularly those with oil-immersion objectives, can capture great-resolution images. <br><br></li>
+          </ul>
+          <p><b>2.4 Limitations</b><br></p>
+          <ul>
+          <li><b>Low Contrast</b><br>
+          Unstained specimens frequently don't have enough contrast, which makes it challenging to see minute details.<br><br></li>
+          <li><b>Sample preparation</b><br> 
+          Staining or other contrast-enhancing methods may be necessary for specimens, which can change the sample.<br><br> </li>
+          <li><b>Limitations with Thick Specimens</b><br> Brightfield microscopy is not recommended for thick or opaque specimens because these materials might scatter light and cause image quality to suffer.<br><br></li>
+          <li><b>No 3-D information</b><br> The lack of 3D information makes it difficult to see the three-dimensional structure of samples because it only gives a 2D image. <br><br></li>
+          </ul>
+          <p><b>3 Darkfield Microscopy</b><br><br>
+          Transparent or low-contrast specimens can be seen and contrasted more clearly using the optical microscopy technique known as darkfield microscopy. Darkfield microscopy illuminates the sample with oblique or scattered light, producing a bright image against a dark background, as opposed to brightfield microscopy, which illuminates the specimen with a bright background. In addition to minuscule particles, germs, and other transparent objects, this method is particularly helpful for studying live and unstained biological specimens.<br><br>
+          <b>    3.1 Principle </b><br><br>
+          The basic idea behind darkfield microscopy is to use a condenser specifically created to block the main, unscattered light beam. On the other hand, only light that is refracted or dispersed by the specimen enters the objective lens. The result is a brilliant image on a dark background thanks to the capturing of this scattered light. Transparent or translucent specimens are easier to see against a dark background, which improves contrast and resolution.<br><br>
+          <b> 3.2  Components</b><br></p>
+          <ul>
+          <li><b>Condenser with Darkfield Stop:</b><br> The condenser features a darkfield stop, a spherical disc close to the condenser lens that filters out the light from the center. Only the dispersed or refracted light can pass through due to its construction.<br><br></li>
+          <li><b>Objective Lens</b><br> Darkfield microscopy uses objective lenses to magnify the scattered light and provide a magnified image of the specimen, just like other microscopy methods do.<br><br></li>
+          <li><b>Stage for the Specimen:</b><br> 
+          For exact positioning, the specimen is placed on a stage like that used in brightfield microscopy.<br><br> </li>
+          <li><b>Light Source</b><br> 
+          The illumination is provided by a strong light source, typically a halogen lamp or LED. This light is shone first on the condenser and subsequently on the sample. <br><br></li>
+          </ul>
+          <p><b>3.3 Advantages</b><br></p>
+          <ul>
+          <li><b>High Contrast</b><br> 
+          High-contrast pictures produced by darkfield microscopy help see translucent or low-contrast material without staining.<br><br></li>
+          <li><b>Live Cell Observation</b><br> 
+          This technique preserves the integrity and viability of living cells and microorganisms by allowing for observation in their unaltered natural condition without needing fixation or staining. It is particularly valuable in biology.<br> <br></li>
+          <li><b>Enhanced Visibility</b><br> 
+          Against the black background, minute features, such as germs, dust particles, and microscopic organisms, become extremely apparent, enabling careful inspection and analysis.<br><br></li>
+          <li><b>No staining required</b><br> 
+          Darkfield microscopy does not require staining, in contrast to brightfield microscopy, protecting the specimen's original properties.<br><br></li>
+          </ul>
+          <p><b>3.4 Limitations</b><br></p>
+          <ul>
+          <li><b>Limited Depth of Field:</b><br> Darkfield microscopy frequently has a limited depth of field, making it challenging to see three-dimensional structures in thick specimens.<br><br></li>
+          <li><b>Specialized equipment</b><br> 
+          Darkfield microscopy is slightly more sophisticated than brightfield because it requires specialized condensers and objectives.<br><br></li>
+          </ul>
+          <p><b>3.5  Applications</b><br></p>
+          <ul>
+          <li><b>Microbiology:</b><br> To observe live bacteria, spirochetes, and other microorganisms for research and diagnosis, darkfield microscopy is frequently employed in this field.<br><br></li>
+          <li><b>Nanotechnology:</b><br> Researchers can visualize the characteristics and behavior of nanoparticles and nanomaterials by using nanotechnology.<br><br></li>
+          <li><b>Pharmaceuticals:</b><br> Drug particles, microcrystals, and other pharmaceutical components can be analyzed using darkfield microscopy.<br><br></li>
+          <li><b>Materials Science:</b><br> Examining minute particles, flaws, and impurities in materials is done in material science.<br><br></li>
+          </ul>
+          <p><b>4  Phase Contrast Microscopy</b><br><br> 
+          This technique is good for looking at transparent specimens like living cells. It produces high contrast images of phase objects by taking advantage of variations in the phase of light travelling through the sample.<br><br>
+          <b>4.1  Principle</b><br><br> 
+          The foundation of phase contrast microscopy is that light undergoes a phase shift when it passes through a transparent or semi-transparent specimen. However, using a conventional brightfield microscope, this phase change is invisible to the naked eye. In phase contrast microscopy, these phase discrepancies are converted into intensity differences using various optical components, creating a contrasted image.<br><br> 
+          <b>4.2 Components</b><br></p>
+          <ul>
+          <li><b>Phase Plate</b><br> 
+          The phase plate positioned in the condenser is a crucial part of phase contrast microscopy. Light going through the phase plate has a phase shift, usually a quarter wavelength out of phase. Phase discrepancies become amplitude differences because of this phase shift.<br><br></li>
+          <li><b>Annular Aperture</b><br> 
+          The annular aperture in the objective lens regulates the angles at which light enters the objective. This aperture receives light that is directed through the specimen, which enhances the phase contrast effect.<br><br></li>
+          <li><b>Objective Lens</b><br> Phase contrast microscopy uses an objective lens, much like other microscopes, to gather and enlarge the light emitted by the specimen.<br><br></li>
+          <li><b>Eyepiece Lens</b><br> 
+          By enlarging the picture even more, the eyepiece lets the viewer view the specimen with the chosen overall magnification.<br><br></li>
+          </ul>
+          <p><b>4.3 Advantages</b><br></p>
+          <ul>
+          <li><b>Enhanced Contrast</b><br> 
+          Phase contrast microscopy is the best technique to observe live cells, cell organelles, and other transparent biological materials without staining because it dramatically improves contrast and visibility for transparent specimens. <br><br></li>
+          <li><b>Live Cell Observation</b><br> This technique is particularly useful in cell biology because it enables scientists to view living cells in their natural form without creating artifacts from staining.<br> <br></li>
+          <li><b>No Sample Preparation</b><br> 
+          Phase contrast microscopy does not require additional sample preparation, in contrast to staining methods, which can change the material's properties.<br><br></li>
+          <li><b>High Resolution:</b><br> Phase contrast microscopy produces high-resolution images that allow observing minute cellular details.<br><br></li>
+          </ul>
+          <p><b>4.4 Limitations</b><br></p>
+          <ul>
+          <li>Phase contrast microscopy is more expensive and sophisticated than brightfield microscopy because it requires specialized optics and phase plates.<br></li>
+          <li>Artifacts and Halos: The process can create halo-like artifacts around the specimen's high-contrast edges or structures.<br><br></li>
+          </ul>
+          <p><b>4.5  Applications</b><br></p>
+          <ul>
+          <li><b>Cell Biology</b><br> 
+          Phase contrast microscopy is frequently employed in cell biology to observe dynamic processes, subcellular structures, and living cells.<br><br></li>
+          <li><b>Microbiology</b><br> 
+          It is essential for researching microorganisms in their natural environments, such as bacteria, algae, and protozoa.<br><br></li>
+          <li><b>Developmental Biology</b><br> 
+          Phase contrast microscopy is used to track embryonic development and cell differentiation in developmental biology.<br><br></li>
+          <li><b>Materials Science</b><br> 
+          Materials science examines transparent materials, including microfluidic devices and polymers.<br><br></li>
+          </ul>
+          <p><b>5 Differential Interference Contrast (DIC) Microscopy:</b><br><br>A sophisticated method that improves contrast and displays subtle differences in a sample's optical path length is contrast microscopy or DIC. It splits a light beam into two to induce a phase shift and sends one through the sample and the other through an optical route. Images produced show how the sample's thickness and relief vary.<br><br>
+          <b>5.1 Principle</b><br><br> 
+          The basis of DIC microscopy is that polarised light and the specimen interact to produce interference patterns. This method divides a white light beam into two beams that vibrate perpendicular to one another using a polarising beam splitter, prisms, and specialized objectives. After traversing the specimen, these two beams are recombined to produce an interference pattern translated into an image. Differences in optical path length and refractive index, which show tiny specimen details, give rise to the final image.<br><br>
+          <b>5.2 Components</b><br><br>
+          DIC Microscope involves a set of specialized optical components:<br></p>
+          <ul>
+          <li><b>Polarizer </b><br>
+          The polarizer produces A linearly polarised beam, which polarises the light source into a single plane of vibration.<br><br></li>
+          <li><b>Beam Splitter:</b><br> 
+          The linearly polarised light is divided into two orthogonally polarised beams by a polarising beam splitter cube.<br><br></li>
+          <li><b>Prisms</b><br> These prisms cause a phase difference between the two split beams by introducing a lateral shear between them.<br><br></li>
+          <li><b>Nomarski prism</b><br> 
+          The two beams are recombined using Nomarski prisms, also called Wollaston prisms, after passing through the specimen. These prisms recombine the beams, making phase discrepancies in the sample more visible.<br><br></li>
+          <li><b>Objective Lens</b><br> 
+          The objective lens is a key component that collects the recombined beams and creates an interference pattern that the eyepiece then images.<br><br></li>
+          </ul>
+          <p><b>6 Polarized Light Microscopy </b><br><br>
+          It is a type of microscopy that uses polarized light to enhance the contrast of samples, making it easier to observe certain materials or structures. This technique is particularly useful for studying materials that have optical properties, such as crystals, minerals, or biological tissues, which can interact with light in unique ways. The sample’s unique interaction with the polarized light allows features like crystals, fibers, or other structures to become visible, often showing up with bright colors or patterns, which helps in distinguishing them from the background. <br><br>
+          <b>6.1 Principle</b><br><br> 
+          This microscopy takes advantage of is birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each traveling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
+          <b>6.2 Components</b><br> </p>
+          <ul>
+          <li><p><b>    Light source:</b> The light emitted is typically unpolarized, i.e. light waves vibrate in all directions.<br></p>
+          </li>
+          <li><p><b>    Polarizer:</b> In polarized light microscopy, light from the microscope’s light source passes through a special optical filter called a polarizer. This polarizer converts the light into light waves that oscillate in only one direction (plane-polarized light). Thus, it allows light waves oscillating in one plane (direction) to pass through.<br></p>
+          </li>
+          <li><p><b> Sample:</b> The polarized light then passes through the sample being examined. Materials within the sample that have special optical properties—such as birefringence (the ability to split light into two rays)—will interact with the light differently.<br></p>
+          </li>
+          <li><p><b> Analyzer:</b> After passing through the sample, the light passes through a second filter called an analyzer, which is usually placed perpendicular to the polarizer. The analyzer blocks the light unless it has been altered by the sample. If the sample has induced changes in the light’s polarization (such as rotation or splitting), the analyzer will allow these modified light rays to pass through, thus revealing the sample's internal structure and properties.<br><br></p>
+          </li>
+          </ul>
+          <p><b>6.3 Applications</b><br></p>
+          <p>Polarized microscopy takes advantage of birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each travelling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br></p>
+          <p><b>6.4 Advantages of Polarized Light Microscopy</b><br></p>
+          <ul>
+          <li><b>Non-destructive:</b> Polarized light microscopy is a non-invasive method, meaning that samples can be analyzed without being damaged.<br></li>
+          <li><b>Enhanced Contrast:</b> It provides excellent contrast for birefringent materials that would otherwise be hard to see under regular light microscopy.<br> </li>
+          <li><b>Identification of Materials:</b> Polarized light microscopy allows for the identification of specific materials based on their optical properties, such as crystalline structures.<br><br></li>
+          </ul>
+          <p><b>7 Magnification</b><br><br> 
+          The interaction of the objective and eyepiece lenses in a microscope produces varying magnification. Multiplying the objective magnification by the eyepiece magnification yields the total magnification. Higher magnifications make finer details more visible but can also reduce the depth of focus and field of view.<br><br>
+          <b>7.1 Principle</b><br><br> 
+          The interaction of light with lenses or other optical elements is the foundation of the microscope magnification principle. The ability to magnify and project a specimen onto an image plane—typically a camera or the eyepiece for visual observation—requires that light rays from the specimen be refracted (bent) as they pass through a succession of lenses.<br><br>
+          <b>7.2 Components of Magnification</b><br></p>
+          <ul>
+          <li><b>Objective lens</b><br> 
+          The primary lens in a microscope is called the objective lens. It is responsible for gathering and magnifying the light that enters the specimen. The numerical aperture (NA), which affects the lens's resolving capacity, and the magnification power are typically used to pick the objective lens.<br><br></li>
+          <li><b>Eyepiece Lens</b><br> 
+          The eyepiece lens, often called the ocular, is a magnifying lens attached to the top of the microscope and is used to enlarge the image created by the objective lens. The sum of the magnifications of the objective and eyepiece lenses determines the overall magnification.<br><br></li>
+          <li><b>Tube Length</b><br> 
+          To guarantee appropriate image formation, the distance between the objective lens and the eyepiece lens, also known as the tube length, is standardized in microscopes. A typical tube length is between 160 and 170 mm.<br> <br></li>
+          </ul>
+          <p><b>7.3 Types of Magnification</b><br></p>
+          <ul>
+          <li><b>Optical Magnification</b><br> 
+          When a specimen appears to grow when examined under a microscope, this is referred to as optical magnification. It is computed by multiplying the eyepiece lens' magnification with the objective lens'. For instance, a 10x objective and 10x eyepiece would result in a total optical magnification of 10x X 10x = 100x.<br><br></li>
+          <li><b>Total Magnification</b><br> The level of enlargement the microscope achieves is called total magnification. Both optical magnification and any additional magnification offered by the camera or detector are considered. Most of the time, total magnification is more than optical magnification.<br><br></li>
+          </ul>
+          <p><b>7.4 Significance of Magnification</b><br></p>
+          <ul>
+          <li><b>Resolution</b><br> The quality of the image cannot be determined solely by magnification. Resolution, or the capacity to tell apart two objects that are close together, is also essential. High magnification is advantageous, but it needs to be combined with the right resolution to display tiny details.<br><br></li>
+          <li><b>Observation</b><br> 
+          Whether viewing biological specimens, nanomaterials, or other tiny things, magnification is crucial for seeing microscopic structures. It enables studying various things, including particles, crystals, bacteria, and more.<br><br></li>
+          <li><b>Scientific growth</b><br> 
+          Magnification is essential to the growth of science. It has been helpful in subfields like nanotechnology, materials science, and biology.<br><br></li>
+          </ul>
+          
+          </div>
+          <div class="bug-report-mobile">
+              <bug-report id="bug-report" title="[BUG REPORT] MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES
+          LIKE DIC, POLARIZED LIGHT ETC" page-type="text" context-info="{&quot;organisation&quot;:&quot;Virtual Labs&quot;,&quot;developer_institute&quot;:&quot;IITK&quot;,&quot;expname&quot;:&quot;MICROSCOPY: MODES, MAGNIFICATION, AND IMAGING WITH SPECIAL CONTRAST TECHNIQUES\nLIKE DIC, POLARIZED LIGHT ETC&quot;,&quot;labname&quot;:&quot;Virtual Lab&quot;,&quot;phase&quot;:&quot;Testing&quot;}" checkbox-json="{&quot;text&quot;:[&quot;Insufficient Content&quot;],&quot;video&quot;:[&quot;Insufficient Content&quot;],&quot;assesment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;assessment&quot;:[&quot;Incorrect Options&quot;,&quot;Incorrect Answer&quot;,&quot;Incorrect Question&quot;],&quot;simulation&quot;:[&quot;Simulation Not Working&quot;,&quot;Incorrect Results/Observations&quot;,&quot;Insufficient/Incorrect Instructions&quot;],&quot;DEFAULT&quot;:[&quot;Page Not Loading&quot;,&quot;Content Not Visible&quot;,&quot;Incorrect Content&quot;]}" position="override" button_style="
+                          position: fixed; 
+                          bottom: 20px;
+                          right: 20px;
+                          z-index: 1;
+                          font-size: 0;
+                          padding: 25px;
+                          border-radius: 50%;
+                          border: none;
+                          background-color: #0fc0ff;
+                          background-image: url(data:image/png;base64,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);
+                          background-repeat: no-repeat;
+                          background-position: center;
+                          background-size: 30px;
+                          filter: invert(1);">
+              </bug-report>
+          </div>        </div>
+      </div>
+      <footer class="text-light pt-2 vlabs-footer d-flex flex-column">
+        <div class="row px-5 mx-0">
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Community Links</span>
+            <a href="https://www.sakshat.ac.in/" class="text-light">Sakshat Portal</a>
+            <a href="http://outreach.vlabs.ac.in/" class="text-light">Outreach Portal</a>
+            <a href="https://vlab.co.in/faq" class="text-light">FAQ: Virtual Labs</a>
+          </div>
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Contact Us</span>
+            <span> Phone: General Information: 011-26582050 </span>
+            <span> Email: support@vlabs.ac.in </span>
+          </div>
+          <div class="col d-flex flex-column">
+            <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Follow Us</span>
+            <div class="social-links">
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #55acee;" href="https://twitter.com/TheVirtualLabs">
+      	  <i class="fab fa-twitter"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #3b5998;" href="https://www.facebook.com/Virtual-Labs-IIT-Delhi-301510159983871/">
+      	  <i class="fab fa-facebook"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #e52d27;" href="https://www.youtube.com/watch?v=asxRaOgk6a0">
+      	  <i class="fab fa-youtube"></i>
+      	</a>
+      	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #2867B2;" href="https://in.linkedin.com/in/virtual-labs-008ba9136">
+      	  <i class="fab fa-linkedin"></i>
+      	</a>
+            </div>
+          </div>
+        </div>
+        <div class="m-0 py-2 text-center" style="font-family: &quot;Open Sans&quot;, sans-serif; background: #212121;">
+          <a class="text-primary font-weight-bold" href="https://www.gnu.org/licenses/agpl-3.0.en.html"> AGPL 3.0 </a>
+          &nbsp;&amp;&nbsp;
+          <a class="text-primary font-weight-bold" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons (CC BY-NC-SA 4.0) </a>
+        </div>
+      </footer>
+    <script src="./assets/js/toggleSidebar.js"></script>
+    <script src="./assets/js/event-handler.js"></script>
+
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register("sw.js");
+        });
+      }
+    </script>
+  
+
+<script type="module" src="https://virtual-labs.github.io/svc-bug-report/client/src/bug-report.js"></script><script type="module" src="plugins/svc-rating/index.js"></script><script type="module" src="plugins/svc-rating/config.js"></script><script type="module" src="https://apis.google.com/js/api.js"></script></body></html>

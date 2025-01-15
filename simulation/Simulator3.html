@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Simulator 3</title>
+
+    <style>
+        a {
+            text-decoration: none;
+        }
+
+        .text {
+            background-color: yellow;
+            border-radius: 21px;
+            font-size: 22px;
+            margin-left: 50px;
+            margin-right: 50px;
+            padding: 10px;
+        }
+
+        #eyepiece{
+            font-size: 20px;
+            color: rgb(55, 55, 230);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+            margin: 5px;
+        }
+        #optionsForm {
+            font-size: 21px;
+        }
+
+        .btn {
+            margin-top: 15px;
+            font-size: 20px;
+        }
+
+        #result {
+            margin-top: 5px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <button type="button" class="btn btn-outline-info mx-2 my-2"><a href="index.html">Go to main page</a></button>
+    <button type="button" class="btn btn-outline-info m-3"><a href="Simulator2.html">Back</a></button>
+    <h2 class="d-flex justify-content-center align-items-center">Simulator 3</h2>
+    <!-- <p class="d-flex justify-content-center align-items-center text " id="question">Calculate the magnifications of the different
+        microstructures shown below with different eyepiece magnification and fixed object magnification capacity of 10X
+        and write the answers in the boxes given .</p> -->
+    <p class="d-flex justify-content-center align-items-center text " id="question"></p>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- images -->
+                <img id="images" src="" alt="microstructures" width="95%" height="auto" />
+                <p id="eyepiece"></p>
+            </div>
+
+            <div class="col-md-6">
+                <!-- options -->
+                <div id="optionsForm">
+                    <label for="answer">Answer:</label><br>
+                    <input type="text" id="answer" name="answer" placeholder="Enter your answer" autocomplete="off"> X<br>
+                    <button type="button" id="submitbtn" class="btn btn-outline-success" onclick="checkAnswer()">Submit</button>
+                </div>
+                
+                <p id="result"> </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const imagesUrl = [
+            "./images/sim3-3.png",
+            "./images/sim3-1.png",
+            "./images/sim3-4.png",
+            "./images/sim3-2.png"
+        ];
+        const correctOptions = ["500","100", "100","20"];
+        const eyepieceValues = ["50X", "10X","100X","20X"];
+
+        let currentIndex = 0;
+
+        function showImage() {
+            document.getElementById('images').src = imagesUrl[currentIndex];
+            document.getElementById('eyepiece').innerText = `Eyepiece: ${eyepieceValues[currentIndex]}`;
+            
+            console.log("eyepiese value =",eyepieceValues[currentIndex])
+            if(eyepieceValues[currentIndex]==="50X"){
+                document.getElementById('question').innerText = "Calculate the magnification of the microstructure shown below. The magnification of the objective and eyepiece lens are 10X and 50X, respecitvely.";
+            }
+            if(eyepieceValues[currentIndex]==="10X"){
+                document.getElementById('question').innerText = "Calculate the magnification of the microstructure shown below. The magnification of the objective and eyepiece lens are 10X and 10X, respecitvely.";
+            }
+            if(eyepieceValues[currentIndex]==="100X"){
+                document.getElementById('question').innerText = "Calculate the magnification of the eyepiece used for capturing the microstructure (with magnification 1000 X) shown below. The magnification of the objective is 10X.";
+                document.getElementById('eyepiece').innerText = "Magnification : 1000X";
+            }
+            if(eyepieceValues[currentIndex]==="20X"){
+                document.getElementById('question').innerText = "Calculate the magnification of the eyepiece used for capturing the microstructure (with magnification 200 X) shown below. The magnification of the objective is 10X.";
+                document.getElementById('eyepiece').innerText = "Magnification : 200X";
+            }
+
+            clearAnswer();
+        }
+
+        function checkAnswer() {
+            const userAnswer = document.querySelector('input[name="answer"]').value.trim();
+
+            if (userAnswer.match(/^\d+$/)) { // Check if the answer is numeric
+                const correctAnswer = correctOptions[currentIndex];
+
+                if (userAnswer === correctAnswer) {
+                    document.getElementById('result').innerText = 'Good Job ! ';
+                    document.getElementById('result').style.color = 'green ';
+                    currentIndex++;
+
+                    // Check if there are more images
+                    if (currentIndex < imagesUrl.length) {
+                        setTimeout(() => {
+                            showImage();
+                            document.getElementById('result').innerText = '';
+                            clearAnswer(); // Clear the input field
+                        }, 2000); // Display correct message for 2 seconds
+                    } else {
+                        document.getElementById('result').innerText = 'Congratulations! You completed all images.';
+                        document.getElementById('submitbtn').style.display='none'
+                        // Optionally, you can redirect or show a completion message.
+                    }
+                } else {
+                    document.getElementById('result').innerText = 'Wrong answer. Try again.';
+                    document.getElementById('result').style.color = 'red';
+                }
+            } else {
+                document.getElementById('result').innerText = 'Please enter a numeric value.';
+                document.getElementById('result').style.color = 'red';
+            }
+        }
+
+        function clearAnswer() {
+            document.getElementById('answer').value='';
+        }
+
+        // Initial setup
+        showImage();
+    </script>
+
+</body>
+
+</html>
