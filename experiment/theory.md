@@ -138,9 +138,8 @@ This microscopy takes advantage of is birefringence, a property exhibited by cer
 * <b> Analyzer:</b> After passing through the sample, the light passes through a second filter called an analyzer, which is usually placed perpendicular to the polarizer. The analyzer blocks the light unless it has been altered by the sample. If the sample has induced changes in the light’s polarization (such as rotation or splitting), the analyzer will allow these modified light rays to pass through, thus revealing the sample's internal structure and properties.<br><br>
 
 <b>6.3 Applications</b><br>
-* <b>	Mineralogy:</b> Polarized light microscopy is commonly used in geology to study minerals and rocks. Many minerals, when observed under polarized light, show unique colors or patterns that help identify them.<br>
-* <b>	Biology:</b> It is used in biology to examine biological structures such as collagen fibers, starch granules, and other materials that have birefringent properties.<br>
-* <b> Material Science:</b> Polarized light microscopy helps in examining the structure of polymers, fibers, and other materials that have crystalline structures or anisotropic properties.<br><br>
+
+Polarized microscopy takes advantage of birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each travelling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
 
 <b>6.4 Advantages of Polarized Light Microscopy</b><br>
 * <b>Non-destructive:</b> Polarized light microscopy is a non-invasive method, meaning that samples can be analyzed without being damaged.<br>
