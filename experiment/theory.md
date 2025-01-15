@@ -128,15 +128,15 @@ The objective lens is a key component that collects the recombined beams and cre
 <b>6.1 Principle</b><br><br> 
 This microscopy takes advantage of is birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each traveling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
 <b>6.2 Components</b><br> 
-1.	Light source: The light emitted is typically unpolarized, i.e. light waves vibrate in all directions.<br><br>
-2.	Polarizer: In polarized light microscopy, light from the microscope’s light source passes through a special optical filter called a polarizer. This polarizer converts the light into light waves that oscillate in only one direction (plane-polarized light). Thus, it allows light waves oscillating in one plane (direction) to pass through.<br><br>
-3. Sample: The polarized light then passes through the sample being examined. Materials within the sample that have special optical properties—such as birefringence (the ability to split light into two rays)—will interact with the light differently.<br><br>
+1.	Light source: The light emitted is typically unpolarized, i.e. light waves vibrate in all directions.<br>
+2.	Polarizer: In polarized light microscopy, light from the microscope’s light source passes through a special optical filter called a polarizer. This polarizer converts the light into light waves that oscillate in only one direction (plane-polarized light). Thus, it allows light waves oscillating in one plane (direction) to pass through.<br>
+3. Sample: The polarized light then passes through the sample being examined. Materials within the sample that have special optical properties—such as birefringence (the ability to split light into two rays)—will interact with the light differently.<br>
 4. Analyzer: After passing through the sample, the light passes through a second filter called an analyzer, which is usually placed perpendicular to the polarizer. The analyzer blocks the light unless it has been altered by the sample. If the sample has induced changes in the light’s polarization (such as rotation or splitting), the analyzer will allow these modified light rays to pass through, thus revealing the sample's internal structure and properties.<br><br>
 
 <b>6.3 Applications</b><br>
-1.	Mineralogy: Polarized light microscopy is commonly used in geology to study minerals and rocks. Many minerals, when observed under polarized light, show unique colors or patterns that help identify them.<br><br>
-2.	Biology: It is used in biology to examine biological structures such as collagen fibers, starch granules, and other materials that have birefringent properties.<br><br>
-3.	 Material Science: Polarized light microscopy helps in examining the structure of polymers, fibers, and other materials that have crystalline structures or anisotropic properties.<br><br>
+1.	Mineralogy: Polarized light microscopy is commonly used in geology to study minerals and rocks. Many minerals, when observed under polarized light, show unique colors or patterns that help identify them.<br>
+2.	Biology: It is used in biology to examine biological structures such as collagen fibers, starch granules, and other materials that have birefringent properties.<br>
+3. Material Science: Polarized light microscopy helps in examining the structure of polymers, fibers, and other materials that have crystalline structures or anisotropic properties.<br><br>
 
 <b>6.4 Advantages of Polarized Light Microscopy</b><br>
 1.	Non-destructive: Polarized light microscopy is a non-invasive method, meaning that samples can be analyzed without being damaged.<br>
