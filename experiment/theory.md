@@ -124,42 +124,49 @@ The two beams are recombined using Nomarski prisms, also called Wollaston prisms
 * <b>Objective Lens</b><br> 
 The objective lens is a key component that collects the recombined beams and creates an interference pattern that the eyepiece then images.<br><br>
 
-<b>6 Magnification</b><br><br> 
-The interaction of the objective and eyepiece lenses in a microscope produces varying magnification. Multiplying the objective magnification by the eyepiece magnification yields the total magnification. Higher magnifications make finer details more visible but can also reduce the depth of focus and field of view.<br><br>
+<b>6 </b> Polarized Light Microscopy is a type of microscopy that uses polarized light to enhance the contrast of samples, making it easier to observe certain materials or structures. This technique is particularly useful for studying materials that have optical properties, such as crystals, minerals, or biological tissues, which can interact with light in unique ways. The sample’s unique interaction with the polarized light allows features like crystals, fibers, or other structures to become visible, often showing up with bright colors or patterns, which helps in distinguishing them from the background. <br><br>
 <b>6.1 Principle</b><br><br> 
+This microscopy takes advantage of is birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each traveling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
+<b>6.2 Components</b><br> 
+1.	Light source: The light emitted is typically unpolarized, i.e. light waves vibrate in all directions.<br><br>
+2.	Polarizer: In polarized light microscopy, light from the microscope’s light source passes through a special optical filter called a polarizer. This polarizer converts the light into light waves that oscillate in only one direction (plane-polarized light). Thus, it allows light waves oscillating in one plane (direction) to pass through.<br><br>
+3. Sample: The polarized light then passes through the sample being examined. Materials within the sample that have special optical properties—such as birefringence (the ability to split light into two rays)—will interact with the light differently.<br><br>
+4. Analyzer: After passing through the sample, the light passes through a second filter called an analyzer, which is usually placed perpendicular to the polarizer. The analyzer blocks the light unless it has been altered by the sample. If the sample has induced changes in the light’s polarization (such as rotation or splitting), the analyzer will allow these modified light rays to pass through, thus revealing the sample's internal structure and properties.<br><br>
+
+<b>6.3 Applications</b><br>
+1.	Mineralogy: Polarized light microscopy is commonly used in geology to study minerals and rocks. Many minerals, when observed under polarized light, show unique colors or patterns that help identify them.<br><br>
+2.	Biology: It is used in biology to examine biological structures such as collagen fibers, starch granules, and other materials that have birefringent properties.<br><br>
+3.	 Material Science: Polarized light microscopy helps in examining the structure of polymers, fibers, and other materials that have crystalline structures or anisotropic properties.<br><br>
+
+<b>6.4 Advantages of Polarized Light Microscopy</b><br>
+1.	Non-destructive: Polarized light microscopy is a non-invasive method, meaning that samples can be analyzed without being damaged.<br>
+2.	Enhanced Contrast: It provides excellent contrast for birefringent materials that would otherwise be hard to see under regular light microscopy.<br> 
+3.	Identification of Materials: Polarized light microscopy allows for the identification of specific materials based on their optical properties, such as crystalline structures.<br><br>
+
+<b>7 Magnification</b><br><br> 
+The interaction of the objective and eyepiece lenses in a microscope produces varying magnification. Multiplying the objective magnification by the eyepiece magnification yields the total magnification. Higher magnifications make finer details more visible but can also reduce the depth of focus and field of view.<br><br>
+<b>7.1 Principle</b><br><br> 
 The interaction of light with lenses or other optical elements is the foundation of the microscope magnification principle. The ability to magnify and project a specimen onto an image plane—typically a camera or the eyepiece for visual observation—requires that light rays from the specimen be refracted (bent) as they pass through a succession of lenses.<br><br>
-<b>6.2 Components of Magnification</b><br>
-* <b>Objective lens</b><br><br> 
+<b>7.2 Components of Magnification</b><br>
+* <b>Objective lens</b><br> 
 The primary lens in a microscope is called the objective lens. It is responsible for gathering and magnifying the light that enters the specimen. The numerical aperture (NA), which affects the lens's resolving capacity, and the magnification power are typically used to pick the objective lens.<br><br>
 * <b>Eyepiece Lens</b><br> 
 The eyepiece lens, often called the ocular, is a magnifying lens attached to the top of the microscope and is used to enlarge the image created by the objective lens. The sum of the magnifications of the objective and eyepiece lenses determines the overall magnification.<br><br>
 * <b>Tube Length</b><br> 
 To guarantee appropriate image formation, the distance between the objective lens and the eyepiece lens, also known as the tube length, is standardized in microscopes. A typical tube length is between 160 and 170 mm.<br> <br>
 
-<b>6.3 Types of Magnification</b><br>
+<b>7.3 Types of Magnification</b><br>
 * <b>Optical Magnification</b><br> 
 When a specimen appears to grow when examined under a microscope, this is referred to as optical magnification. It is computed by multiplying the eyepiece lens' magnification with the objective lens'. For instance, a 10x objective and 10x eyepiece would result in a total optical magnification of 10x X 10x = 100x.<br><br>
 * <b>Total Magnification</b><br> The level of enlargement the microscope achieves is called total magnification. Both optical magnification and any additional magnification offered by the camera or detector are considered. Most of the time, total magnification is more than optical magnification.<br><br>
 
-<b>6.4 Significance of Magnification</b><br>
+<b>7.4 Significance of Magnification</b><br>
 * <b>Resolution</b><br> The quality of the image cannot be determined solely by magnification. Resolution, or the capacity to tell apart two objects that are close together, is also essential. High magnification is advantageous, but it needs to be combined with the right resolution to display tiny details.<br><br>
 * <b>Observation</b><br> 
 Whether viewing biological specimens, nanomaterials, or other tiny things, magnification is crucial for seeing microscopic structures. It enables studying various things, including particles, crystals, bacteria, and more.<br><br>
 * <b>Scientific growth</b><br> 
 Magnification is essential to the growth of science. It has been helpful in subfields like nanotechnology, materials science, and biology.<br><br>
-
-<b>7 Special Contrast Techniques</b><br>
-* <b>Polarised light microscopy:</b><br> Polarised light microscopy is a special contrast technique that uses a material's birefringence to increase contrast and expose structural and textural details. Polarised light alters the direction of polarisation as it travels through a birefringent material, resulting in distinctive patterns and colors that reveal the sample's structural organization.<br><br>
-* <b>Differential Interference Contrast (DIC) Microscopy:</b><br> 
-As previously indicated, DIC microscopy improves contrast by spotting changes in optical path length. It is particularly useful for highlighting details in clear or low-contrast samples, including unstained biological samples.<br><br>
-* <b>Challenges and Applications:</b><br> 
-- <b>Depth of Field:</b><br> 
-A shallow depth of field, which is frequently produced by high magnification, constricts the focus range. It can be challenging to discern three-dimensional structures because of this.<br><br>
-- <b>Optical aberrations:</b><br> 
-These are flaws in the lens that distort the image, can result from high magnification. High-magnification microscopy presents a substantial difficulty in the correction of aberrations.<br><br>
-
-<b>7.1 Applications</b><br><br>
-Numerous scientific disciplines, including biology, material science, geology, and more, can use these microscopy techniques. While polarised light microscopy helps analyze crystal structures, mineralogy, and structural flaws in materials, DIC microscopy is particularly useful in biological research for examining living cells and tissues. 
+ 
 
 
 
