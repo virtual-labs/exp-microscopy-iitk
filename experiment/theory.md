@@ -124,7 +124,8 @@ The two beams are recombined using Nomarski prisms, also called Wollaston prisms
 * <b>Objective Lens</b><br> 
 The objective lens is a key component that collects the recombined beams and creates an interference pattern that the eyepiece then images.<br><br>
 
-<b>6 </b> Polarized Light Microscopy is a type of microscopy that uses polarized light to enhance the contrast of samples, making it easier to observe certain materials or structures. This technique is particularly useful for studying materials that have optical properties, such as crystals, minerals, or biological tissues, which can interact with light in unique ways. The sample’s unique interaction with the polarized light allows features like crystals, fibers, or other structures to become visible, often showing up with bright colors or patterns, which helps in distinguishing them from the background. <br><br>
+<b>6 Polarized Light Microscopy </b><br><br>
+It is a type of microscopy that uses polarized light to enhance the contrast of samples, making it easier to observe certain materials or structures. This technique is particularly useful for studying materials that have optical properties, such as crystals, minerals, or biological tissues, which can interact with light in unique ways. The sample’s unique interaction with the polarized light allows features like crystals, fibers, or other structures to become visible, often showing up with bright colors or patterns, which helps in distinguishing them from the background. <br><br>
 <b>6.1 Principle</b><br><br> 
 This microscopy takes advantage of is birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each traveling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
 <b>6.2 Components</b><br> 
@@ -137,9 +138,8 @@ This microscopy takes advantage of is birefringence, a property exhibited by cer
 * <b> Analyzer:</b> After passing through the sample, the light passes through a second filter called an analyzer, which is usually placed perpendicular to the polarizer. The analyzer blocks the light unless it has been altered by the sample. If the sample has induced changes in the light’s polarization (such as rotation or splitting), the analyzer will allow these modified light rays to pass through, thus revealing the sample's internal structure and properties.<br><br>
 
 <b>6.3 Applications</b><br>
-* <b>	Mineralogy:</b> Polarized light microscopy is commonly used in geology to study minerals and rocks. Many minerals, when observed under polarized light, show unique colors or patterns that help identify them.<br>
-* <b>	Biology:</b> It is used in biology to examine biological structures such as collagen fibers, starch granules, and other materials that have birefringent properties.<br>
-* <b> Material Science:</b> Polarized light microscopy helps in examining the structure of polymers, fibers, and other materials that have crystalline structures or anisotropic properties.<br><br>
+
+Polarized microscopy takes advantage of birefringence, a property exhibited by certain materials. Birefringent materials cause polarized light to split into two rays, each travelling at different speeds and in slightly different directions. These rays recombine when they exit the material but are now polarized at different angles. As a result, the light exiting the sample may be altered in terms of its intensity, polarization, or color.<br><br>
 
 <b>6.4 Advantages of Polarized Light Microscopy</b><br>
 * <b>Non-destructive:</b> Polarized light microscopy is a non-invasive method, meaning that samples can be analyzed without being damaged.<br>
