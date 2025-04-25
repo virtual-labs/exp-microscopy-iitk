@@ -6,15 +6,20 @@ The most popular and fundamental type of optical microscopy is brightfield micro
 <center><image src ="images/Picture1.png"> </image></center><br>
 <b><center>Figure 1.</b> Bright/Dark Field Microscope </center><br><br>
 <b>2.1 Principle</b><br><br> 
-Transmitted light is the underlying principle of brightfield microscopy. This technique involves passing visible white light through the specimen, which, to variable degrees, scatters or absorbs the light. The contrast and visibility of structures inside the specimen depend on how much light is absorbed or dispersed by the sample. Due to the normally low contrast of unstained specimens, staining procedures are required to improve the visibility of characteristics.<br><br>
- 
+rightfield microscopy operates on the principle of transmitted light, where visible white light is passed through a specimen. As the light travels through, it is scattered or absorbed to varying degrees by different components of the sample. The resulting contrast and visibility of internal structures depend on these interactions. Since unstained specimens typically exhibit low intrinsic contrast, staining is often necessary to enhance the visualization of specific features.<br><br>
+
+
+Staining is a technique used in microscopy to enhance the contrast of specimens, particularly biological tissues or cells, making specific structures more visible under the microscope. It involves applying colored chemical dyes that selectively bind to certain components, such as the nucleus, cell wall, or cytoplasm, depending on their chemical properties. By increasing contrast between different cellular structures, staining helps in identifying, differentiating, and analyzing morphological features that might otherwise be difficult to distinguish in unstained specimens. 
+
+Instead of staining with dyes, metallographers use chemical or electrolytic etching to reveal microstructural features of metals and alloys after polishing the sample. This process selectively corrodes different phases or grain boundaries, enhancing contrast so that features like grain size, phase distribution, and inclusions become visible under an optical or electron microscope.<br><br>
+
 <b>2.2 Components</b>: Brightfield microscopes are made up of several essential parts, including<br>
 * <b>Illuminator</b><br>
 The light source that produces white light for the specimen, usually a halogen lamp or an LED.<br><br>
 * <b>Condenser Lens</b><br> 
 To ensure even illumination, the condenser lens concentrates and directs the light onto the specimen.<br> <br>
 * <b>Stage for Specimen</b> <br>
-The stage, which allows for accurate positioning by allowing for vertical and horizontal movement, is used to hold the specimen.<br><br>
+The stage ensures accurate positioning by permitting only horizontal movement, while vertical movement is controlled through the coarse and fine adjustments of the arm/head. <br><br>
 * <b>Objective Lens</b><br>
 The objective lens is the primary lens that gathers and magnifies the light flowing through the specimen. It oversees creating the initial image.<br><br>
 * <b>Eyepiece</b><br> 
@@ -51,6 +56,8 @@ The basic idea behind darkfield microscopy is to use a condenser specifically cr
 For exact positioning, the specimen is placed on a stage like that used in brightfield microscopy.<br><br> 
 * <b>Light Source</b><br> 
 The illumination is provided by a strong light source, typically a halogen lamp or LED. This light is shone first on the condenser and subsequently on the sample. <br><br>
+ • Bright field Illuminator : The light source that produces white light for the specimen, usually a halogen lamp or an LED. Light from the illuminator passes directly through the sample and into the objective lens. Features that absorb or scatter light appear darker than the bright background. <br><br>
+ • Dark Field Illuminator : The light source that produces white light for the specimen, usually a halogen lamp or an LED. The sample is illuminated from the sides (at an oblique angle) using a special dark field condenser. The background appears black, and only features that scatter light (like edges, inclusions, or fine particles) appear bright. <br><br>
 
 <b>3.3 Advantages</b><br>
 * <b>High Contrast</b><br> 
