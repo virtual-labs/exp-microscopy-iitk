@@ -1,56 +1,108 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "1. Wollaston Prism are also known as",
-      "answers": {
-        "a": "Nomarski Prism",
-        "b": "Hollow Prism",
-        "c": "Absorbing Prism",
-        "d": "Scattering Prism"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1. Wollaston Prism are also known as",
+        "answers": {
+          "a": "Nomarski Prism",
+          "b": "Hollow Prism",
+          "c": "Absorbing Prism",
+          "d": "Scattering Prism"
+        },
+        "explanations": {
+          "a": "Explanation 1  <a href='www.google.com'>here</a>",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2. In which microscopy, unscattered light is blocked",
+        "answers": {
+          "a": "Bright field microscopy",
+          "b": "Light field microscopy",
+          "c": "Dark field microscopy",
+          "d": "None "
+        },
+        "explanations": {
+          "a": "Explanation 1  <a href='www.google.com'>here</a>",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "2. In which microscopy, unscattered light is blocked",
-      "answers": {
-        "a": "Bright field microscopy",
-        "b": "Light field microscopy",
-        "c": "Dark field microscopy",
-        "d": "None "
+      {
+        "question": "3. Which microscopy uses material's birefringence to increase contrast and expose structural and textural details",
+        "answers": {
+          "a": "Dark field microscopy",
+          "b": "Bright field microscopy",
+          "c": "Polarised light microscopy",
+          "d": "All the above"
+        },
+        "explanations": {
+          "a": "Explanation 1  <a href='www.google.com'>here</a>",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "4. Which of the following microstructural features is typically visible under bright field optical microscopy in metals? ",
+        "answers": {
+          "a": "Electron band structure ",
+          "b": "Grain boundaries ",
+          "c": "Dislocation loops ",
+          "d": "Atomic lattice spacing "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "3. Which microscopy uses material's birefringence to increase contrast and expose structural and textural details",
-      "answers": {
-        "a": "Dark field microscopy",
-        "b": "Bright field microscopy",
-        "c": "Polarised light microscopy",
-        "d": "All the above"
+      {
+        "question": "5. Compared to bright field microscopy, dark field imaging provides: ",
+        "answers": {
+          "a": "Lower resolution and lower contrast ",
+          "b": "Better visualization of fine surface details ",
+          "c": "No significant difference ",
+          "d": "Images only in grayscale "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "6. In metallography, dark field microscopy is particularly useful for detecting:",
+        "answers": {
+          "a": "Grain boundary migration ",
+          "b": "Atomic-scale lattice spacing ",
+          "c": "Surface inclusions and small precipitates ",
+          "d": "Magnetic domains "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
