@@ -1,56 +1,108 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "1. Optical microscope can be used to observe samples in",
-      "answers": {
-        "a": "Micro scale",
-        "b": "Nano scale",
-        "c": "Pico scale",
-        "d": "Femto scale"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1. Optical microscope can be used to observe samples in",
+        "answers": {
+          "a": "Micro scale",
+          "b": "Nano scale",
+          "c": "Pico scale",
+          "d": "Femto scale"
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2. Principle of Bright field microscopy",
+        "answers": {
+          "a": "Reflected light",
+          "b": "Transmitted light",
+          "c": "Both",
+          "d": "None"
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "2. Principle of Bright field microscopy",
-      "answers": {
-        "a": "Reflected light",
-        "b": "Transmitted light",
-        "c": "Both",
-        "d": "None"
+      {
+        "question": "3. What is needed to observe tiny details of a sample under an optical microscope",
+        "answers": {
+          "a": "Magnification",
+          "b": "Resolution",
+          "c": "Both",
+          "d": "None"
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "4. Which of the following steps is not typically part of metallographic sample preparation for bright field microscopy?",
+        "answers": {
+          "a": "Mounting ",
+          "b": "Etching ",
+          "c": "Staining with dyes ",
+          "d": "Polishing "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "3. What is needed to observe tiny details of a sample under an optical microscope",
-      "answers": {
-        "a": "Magnification",
-        "b": "Resolution",
-        "c": "Both",
-        "d": "None"
+      {
+        "question": "5.  In bright field microscopy of metals, etching is primarily used to: ",
+        "answers": {
+          "a": "Reduce oxidation on the sample ",
+          "b": "Improve the conductivity of the sample ",
+          "c": "Enhance the visibility of microstructural features",
+          "d": "Increase the reflectivity of the sample surface "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "5. In dark field microscopy of metal samples, which part of the light contributes to image formation?",
+        "answers": {
+          "a": "Reflected light from the sample surface ",
+          "b": "Light directly transmitted through the sample",
+          "c": "Light scattered by surface features or defects",
+          "d": "Fluorescence emitted by the sample "
+        },
+        "explanations": {
+          "a": "Explanation 1",
+          "b": "Explanation 2",
+          "c": "Explanation 2",
+          "d": "Explanation 2"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
