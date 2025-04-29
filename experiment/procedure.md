@@ -126,7 +126,7 @@
 
 
 
-  <b>3. General tips: </b><br><br>
+  <b>5. General tips: </b><br><br>
 	3.1 Light intensity <br> Adapt the light intensity to the specimen's needs and the setup of the microscope.<br><br>
 	3.2 Aperture control <br> Try varying the objective and condenser apertures to get the best contrast.<br><br>
 	3.3 Image documentation <br> If a camera is available, use it to take pictures for documentation and analysis.
