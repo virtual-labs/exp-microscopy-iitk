@@ -3,8 +3,8 @@ The ability to observe samples at the micro- and nanoscale using microscopy make
 
 <b>2 Brightfield Microscopy</b><br><br>
 The most popular and fundamental type of optical microscopy is brightfield microscopy. This mode allows for the visualisation of sample structures by illuminating the sample with white light and producing a picture that depicts variations in light absorption and scattering. Figure 1 shows the image of a Bright Field Microscope. <br><br>
-<img src="images/Picture1.png" style="display:inline-block; width:400px;">
-<img src="images/image_new_1.jpg" style="display:inline-block; width:400px;">
+<img src="images/Picture1.png" style="display:inline-block; width:500px;">
+<img src="images/image_new_1.jpg" style="display:inline-block; width:500px;">
 <br>
 <b>Figure 1.</b> Bright/Dark Field Microscope<br><br>
 <b>2.1 Principle</b><br><br> 
