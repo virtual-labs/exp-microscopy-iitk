@@ -6,7 +6,7 @@ The most popular and fundamental type of optical microscopy is brightfield micro
 <img src="images/Picture1.png" style="display:inline-block; width:500px;">
 <img src="images/image_new_1.jpg" style="display:inline-block; width:500px;">
 <br>
-<b>Figure 1.</b> Bright/Dark Field Microscope<br><br>
+<center><b>Figure 1.</b> Bright/Dark Field Microscope</center><br><br>
 <b>2.1 Principle</b><br><br> 
 Brightfield microscopy operates on the principle of transmitted light, where visible white light is passed through a specimen. As the light travels through, it is scattered or absorbed to varying degrees by different components of the sample. The resulting contrast and visibility of internal structures depend on these interactions. Since unstained specimens typically exhibit low intrinsic contrast, staining is often necessary to enhance the visualization of specific features.<br><br>
 
