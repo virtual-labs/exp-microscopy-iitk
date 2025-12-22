@@ -1,0 +1,108 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1. Optical microscope can be used to observe samples in",
+        "answers": {
+          "a": "Micro scale",
+          "b": "Nano scale",
+          "c": "Pico scale",
+          "d": "Femto scale"
+        },
+        "explanations": {
+          "a": "This is a correct option. Optical microscopes use visible light, which limits their resolution to approximately 0.2–0.3 µm",
+          "b": "This is an incorrect option because optical microscopes cannot resolve features at the nanometer scale.",
+          "c": "This is an incorrect option because pico-scale features (~10-12 meters) are far beyond the resolving power of an optical microscope.",
+          "d": "This is an incorrect option because femto-scale features (~10-15 meters) are vastly smaller than the resolving limit of optical microscopes."
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "2. Principle of Bright field microscopy",
+        "answers": {
+          "a": "Reflected light",
+          "b": "Transmitted light",
+          "c": "Both",
+          "d": "None"
+        },
+        "explanations": {
+          "a": "This is an incorrect option because bright field microscopy relies on light transmitted through the sample, not light reflected from its surface.",
+          "b": "This is a correct option. Bright-field microscopy works on the principle of transmitted light passing through a thin or polished sample.",
+          "c": "This is an incorrect option because bright field microscopy exclusively relies on transmitted light.",
+          "d": "This is an incorrect option because bright field microscopy does have a principle, which is the use of transmitted light to generate contrast in the sample."
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "3. What is needed to observe tiny details of a sample under an optical microscope",
+        "answers": {
+          "a": "Magnification",
+          "b": "Resolution",
+          "c": "Both",
+          "d": "None"
+        },
+        "explanations": {
+          "a": "This is an incorrect option. While magnification enlarges the image, it does not reveal details beyond the microscope’s limit.",
+          "b": "This is the correct option. Resolution determines the ability to distinguish two closely spaced points as separate, which is essential for observing fine details.",
+          "c": "This is an incorrect option. Without sufficient resolution, high magnification will only produce a larger blurred image, not reveal tiny features.",
+          "d": "This is an incorrect option because observing fine details requires resolution."
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "4. Which of the following steps is not typically part of metallographic sample preparation for bright field microscopy?",
+        "answers": {
+          "a": "Mounting ",
+          "b": "Etching ",
+          "c": "Staining with dyes ",
+          "d": "Polishing "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because mounting provides mechanical support to small or fragile specimens during grinding, polishing, and etching.",
+          "b": "This is an incorrect option because etching selectively attacks grain boundaries, phases, or defects to reveal the microstructure that is not visible on the polished surface.",
+          "c": "This is a correct option. Staining with dyes is generally not used in metallography; it is more common in biological microscopy to enhance contrast in soft tissues or cells.",
+          "d": "This is an incorrect option because polishing produces a smooth, flat surface by removing scratches and damage from grinding, which is necessary before etching and microscopic examination."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "5. In bright field microscopy of metals, etching is primarily used to: ",
+        "answers": {
+          "a": "Reduce oxidation on the sample ",
+          "b": "Improve the conductivity of the sample ",
+          "c": "Enhance the visibility of microstructural features",
+          "d": "Increase the reflectivity of the sample surface "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because etching does not remove or prevent oxidation.",
+          "b": "This is an incorrect option because etching does not enhance the electrical conductivity of a metal.",
+          "c": "This is the correct option. In bright field metallography, etching selectively attacks grain boundaries, phases, or defects, creating contrast that makes these features visible under the microscope.",
+          "d": "This is an incorrect option because etching actually reduces surface reflectivity in many cases."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "6. In dark field microscopy of metal samples, which part of the light contributes to image formation?",
+        "answers": {
+          "a": "Reflected light from the sample surface ",
+          "b": "Light directly transmitted through the sample",
+          "c": "Light scattered by surface features or defects",
+          "d": "Fluorescence emitted by the sample "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because in dark field microscopy, the directly reflected light is blocked from entering the objective.",
+          "b": "This is an incorrect option because in dark field microscopy, the image is formed only by light scattered by features or defects, not by unscattered light passing straight through.",
+          "c": "This is the correct option. In dark field microscopy, the microscope is configured so that only light scattered by the sample enters the objective lens.",
+          "d": "This is an incorrect option. Fluorescence is a separate imaging technique that requires a fluorescent sample and specific excitation light, which is not part of standard dark field microscopy."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
