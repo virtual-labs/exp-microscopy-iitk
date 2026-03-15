@@ -1,56 +1,108 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "1. Wollaston Prism are also known as",
-      "answers": {
-        "a": "Nomarski Prism",
-        "b": "Hollow Prism",
-        "c": "Absorbing Prism",
-        "d": "Scattering Prism"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1. Wollaston Prism are also known as",
+        "answers": {
+          "a": "Nomarski Prism",
+          "b": "Hollow Prism",
+          "c": "Absorbing Prism",
+          "d": "Scattering Prism"
+        },
+        "explanations": {
+          "a": "This is the correct option. A Wollaston prism, commonly used in differential interference contrast (DIC) microscopy, is an optical device that splits a light beam into two polarized rays and is often called a Nomarski prism when modified for DIC.",
+          "b": "This is an incorrect option because a Wollaston prism is not hollow.",
+          "c": "This is an incorrect option because a Wollaston prism does not absorb light.",
+          "d": "This is an incorrect option because a Wollaston prism does not scatter light."
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2. In which microscopy, unscattered light is blocked",
+        "answers": {
+          "a": "Bright field microscopy",
+          "b": "Light field microscopy",
+          "c": "Dark field microscopy",
+          "d": "None "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because in bright field microscopy, the unscattered light passes through the sample and enters the objective.",
+          "b": "This is an incorrect option because, like bright field microscopy, light field microscopy allows unscattered light to pass through the sample to form the image.",
+          "c": "This is the correct option. In dark field microscopy, the directly transmitted or unscattered light is blocked, so only light scattered by edges, defects, or surface features reaches the objective.",
+          "d": "This is an incorrect option because in dark field microscopy, unscattered light is specifically blocked to create a dark background and highlight scattered light from defects or edges."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "2. In which microscopy, unscattered light is blocked",
-      "answers": {
-        "a": "Bright field microscopy",
-        "b": "Light field microscopy",
-        "c": "Dark field microscopy",
-        "d": "None "
+      {
+        "question": "3. Which microscopy uses material's birefringence to increase contrast and expose structural and textural details",
+        "answers": {
+          "a": "Dark field microscopy",
+          "b": "Bright field microscopy",
+          "c": "Polarised light microscopy",
+          "d": "All the above"
+        },
+        "explanations": {
+          "a": "This is an incorrect option because dark field microscopy relies on scattered light from edges, defects, or surface features to form an image, not on the material’s birefringence.",
+          "b": "This is an incorrect option because bright field microscopy forms images primarily through variations in light absorption or transmission.",
+          "c": "This is the correct option. Polarised light microscopy exploits the birefringence of anisotropic materials to enhance contrast and reveal structural, textural, and crystallographic details.",
+          "d": "This is an incorrect option because only polarised light microscopy uses birefringence to enhance contrast and reveal structural or textural details."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "4. Which of the following microstructural features is typically visible under bright field optical microscopy in metals? ",
+        "answers": {
+          "a": "Electron band structure ",
+          "b": "Grain boundaries ",
+          "c": "Dislocation loops ",
+          "d": "Atomic lattice spacing "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because electron band structure is a quantum mechanical property of materials at the atomic scale.",
+          "b": "This is the correct option. Bright field optical microscopy can resolve features at the micrometer scale, such as grain boundaries, phases, and inclusions in metals.",
+          "c": "This is an incorrect option because dislocation loops are nanometer-scale defects within the crystal lattice.",
+          "d": "This is an incorrect option because atomic lattice spacing occurs at the angstrom (Å) scale, far below the resolving power of an optical microscope."
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "3. Which microscopy uses material's birefringence to increase contrast and expose structural and textural details",
-      "answers": {
-        "a": "Dark field microscopy",
-        "b": "Bright field microscopy",
-        "c": "Polarised light microscopy",
-        "d": "All the above"
+      {
+        "question": "5. Compared to bright field microscopy, dark field imaging provides: ",
+        "answers": {
+          "a": "Lower resolution and lower contrast ",
+          "b": "Better visualization of fine surface details ",
+          "c": "No significant difference ",
+          "d": "Images only in grayscale "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because dark field microscopy has similar optical resolution to bright field, and the contrast of fine features is actually enhanced, not reduced.",
+          "b": "This is the correct option. Dark field microscopy blocks unscattered light and collects only light scattered by edges, defects, or surface features.",
+          "c": "This is an incorrect option because dark field significantly improves visibility of small or scattered features compared to bright field.",
+          "d": "This is an incorrect option because dark field microscopy produces bright features on a dark background, and the image can be colored if using color-sensitive detectors or filters; it is not inherently limited to grayscale."
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "6. In metallography, dark field microscopy is particularly useful for detecting:",
+        "answers": {
+          "a": "Grain boundary migration ",
+          "b": "Atomic-scale lattice spacing ",
+          "c": "Surface inclusions and small precipitates ",
+          "d": "Magnetic domains "
+        },
+        "explanations": {
+          "a": "This is an incorrect option because tracking grain boundary migration requires time-lapse imaging or high-resolution methods, not standard dark field microscopy.",
+          "b": "This is an incorrect option because atomic lattice features are far below the optical resolution limit; TEM or HRTEM is needed.",
+          "c": "This is the correct option. Dark field microscopy enhances contrast by collecting scattered light, making it ideal for visualizing small defects, inclusions, or precipitates on or near the surface.",
+          "d": "This is an incorrect option because magnetic domains are not visible via scattered light"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
